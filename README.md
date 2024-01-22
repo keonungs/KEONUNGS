@@ -1,4 +1,4 @@
-<br>
+![image](https://github.com/keonungs/KEONUNGS/assets/78975618/dc99a28d-2468-4619-84b1-7f8a48e89c15)<br>
 <div id="header" align="center">
 <!--   <img src="https://media1.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/> -->
   
@@ -26,7 +26,7 @@ hello? world?
 
 <div align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="31"> I am a Full Stack Developer from South Korea.
-Computer Vision thrills me up
+but... Computer Vision thrills me up
 
 </div>
 
