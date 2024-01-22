@@ -26,6 +26,7 @@ hello? world?
 
 <div align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="31"> I am a Full Stack Developer from South Korea.
+Computer Vision thrills me up
 
 </div>
 
