@@ -36,7 +36,7 @@ but... Computer Vision thrills me up
 ---
 <div align="center">
     
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=keonungs&theme=dark&background=000000&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=keonungs&count_private=true&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keonungs&theme=dark&background=000000&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keonungs&&count_private=truetheme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 </div>
